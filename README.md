@@ -10,12 +10,12 @@ The actual concrete compressive strength (MPa) for a given mixture under a speci
 
 
 # Attribute Information:
- Cement: measured in kg in a m3 mixture
- Blast: measured in kg in a m3 mixture 
- Fly ash : measured in kg in a m3 mixture
- Water: measured in kg in a m3 mixture 
- Superplasticizer : measured in kg in a m3 mixture
- Coarse Aggregate : measured in kg in a m3 mixture
- Fine Aggregate : measured in kg in a m3 mixture 
- Age: day (1~365)
- Concrete compressive strength: measured in MPa
+- Cement: measured in kg in a m3 mixture
+- Blast: measured in kg in a m3 mixture 
+- Fly ash : measured in kg in a m3 mixture
+- Water: measured in kg in a m3 mixture 
+- Superplasticizer : measured in kg in a m3 mixture
+- Coarse Aggregate : measured in kg in a m3 mixture
+- Fine Aggregate : measured in kg in a m3 mixture 
+- Age: day (1~365)
+- Concrete compressive strength: measured in MPa
